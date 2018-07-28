@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478634817 source:c:\users\wangy\documents\c\primes\main.c
+	<stdio.h>
+	<stdlib.h>
+
